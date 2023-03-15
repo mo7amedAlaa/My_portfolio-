@@ -15,6 +15,7 @@ html{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 16px;
     color: var(--lightColor);
+    scroll-behavior: smooth;
 }
 /* ------------------start home-------- */
 .home{
@@ -290,6 +291,7 @@ align-items: center;
     }
     html{
         font-size: 13px;
+         
     }
     .home .contant .imagec{
         display: none;
